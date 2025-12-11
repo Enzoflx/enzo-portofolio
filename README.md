@@ -2,7 +2,7 @@
 Este es mi portfolio personal creado como actividad evaluable. Aquí muestro información sobre mí, mis proyectos, habilidades y formas de contacto.
 
 ## Enlace a la página publicada
-https://tu-usuario.github.io/mi-portfolio/
+https://enzoflx.github.io/enzo-portofolio/
 
 ## Tecnologías utilizadas
 - HTML5  
