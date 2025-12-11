@@ -7,7 +7,7 @@
 ## 🌐 Página publicada
 Puedes visitar mi portfolio en GitHub Pages:
 
-[https://enzoflx.github.io/enzo-portofolio/](https://enzoflx.github.io/enzo-portofolio/)
+https://enzoflx.github.io/enzo-portofolio/
 
 ---
 
