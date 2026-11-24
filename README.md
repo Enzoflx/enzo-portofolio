@@ -27,7 +27,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la
 ## 📂 Proyectos destacados
 - **Tienda de Ropa (JavaFX / DAW)**: Gestión de artículos, usuarios y pedidos.  
 - **Aplicación tipo Uber Eats (Angular / DAM)**: Plataforma web de restaurantes y pedidos.  
-- **CarWatch (Proyecto personal)**: Marketing y branding para un reloj inspirado en el mundo del motor.  
 
 ---
 
